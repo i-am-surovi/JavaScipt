@@ -1,0 +1,5 @@
+console.log(Math.floor(2.999995))
+console.log(Math.floor(2.9))
+console.log(Math.floor(2.2333))
+console.log(Math.ceil(2.999995))
+console.log(Math.ceil(2.0001))
